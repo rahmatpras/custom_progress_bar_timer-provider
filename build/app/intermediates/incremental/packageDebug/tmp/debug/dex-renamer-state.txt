@@ -1,0 +1,4 @@
+#Thu Aug 13 13:42:14 WIB 2020
+base.0=/home/rahmat20/FlutterProjects/vol5/custom_progress_bar/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
