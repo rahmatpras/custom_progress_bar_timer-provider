@@ -1,6 +1,6 @@
 # custom_progress_bar
 
-A new Flutter project.
+Belajar flutter 40
 
 ## Getting Started
 
